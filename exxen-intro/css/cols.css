@@ -1,0 +1,13 @@
+.cols {
+    display: flex;  
+}
+
+.column {
+    background-color: #f0bf4c;
+    height: 24rem;
+    width: 6rem;
+}
+
+.c1 {
+    width: 4.5rem;
+}
